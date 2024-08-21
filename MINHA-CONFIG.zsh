@@ -45,6 +45,26 @@ export ALIEN_SECTIONS_RIGHT=(
 export ALIEN_SECTION_TIME_FORMAT=%H:%M:%S # default is %r
 export ALIEN_SECTION_PATH_COMPONENTS=2
 export ALIEN_VERSIONS_PROMPT='PYTHON_S RUBY_S NODE_S NODE'
+export ALIEN_USE_NERD_FONT=1
+export ALIEN_GIT_STASH_SYM=@
+export ALIEN_GIT_SYM=G
+export ALIEN_HG_SYM=H
+export ALIEN_SVN_SYM=S
+export ALIEN_BRANCH_SYM=
+export ALIEN_GIT_ADD_SYM=+
+export ALIEN_GIT_DEL_SYM=-
+export ALIEN_GIT_MOD_SYM=⭑
+export ALIEN_GIT_NEW_SYM=?
+export ALIEN_GIT_PUSH_SYM=↑
+export ALIEN_GIT_PULL_SYM=↓
+export ALIEN_JAVA_SYM='JAVA:'
+export ALIEN_PY_SYM='PY:'
+export ALIEN_RB_SYM='RB:'
+export ALIEN_GO_SYM='GO:'
+export ALIEN_ELIXIR_SYM='EX:'
+export ALIEN_CRYSTAL_SYM='CR:'
+export ALIEN_NODE_SYM='⬡ '
+export ALIEN_PHP_SYM='PHP:'
 
 
 # Set list of themes to pick from when loading at random

@@ -21,8 +21,8 @@ export ZSH="$HOME/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-source ~/alien/alien.zsh
-# ZSH_THEME="alien"
+# source ~/.oh-my-zsh/themes/half-life.zsh-theme
+ZSH_THEME="half-life"
 
 export ALIEN_THEME="soft"
 
@@ -158,3 +158,4 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+PATH=~/.console-ninja/.bin:$PATH
